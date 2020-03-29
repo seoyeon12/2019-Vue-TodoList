@@ -2,6 +2,7 @@
 
 > My first vue.js project
 TodoList
+> 아마존 S3 웹호스팅 이용 http://vuetodolist.s3-website.ap-northeast-2.amazonaws.com/
 
 ## Build Setup
 
