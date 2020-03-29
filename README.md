@@ -1,6 +1,7 @@
 # vue-todo
 
 > My first vue.js project
+TodoList
 
 ## Build Setup
 
